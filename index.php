@@ -1,5 +1,11 @@
-<!DOCTYPE html>
 <html>
+
+<?php
+  $form_submitted=false;
+  if(isset($_POST["cough"])){
+    $form_submitted=true;
+  }
+?>
 
 <head>
   <title>Questionnaire</title>
@@ -10,6 +16,16 @@
 </head>
 
 <body>
+
+  <?php
+  if($form_submitted);
+  ?>
+    <h3>Thank you for compleating the screening questionnaire!</h3>
+
+  <?php
+  else:
+  ?>
+  
   <div class="banner">
 
     <div class="logo">
@@ -53,7 +69,7 @@
 
   </div>
   <p>Do you have any of the following?</p>
-  <form>
+  <form action="index.php" class="form" method="post">
     <span>A new or worsening cough</span>
     <input type="radio" id="yesCough" name="cough" value="yes" required>
     <label for="yesCough">Yes</label>
@@ -147,7 +163,7 @@
     <input type="submit" value="Submit">
 
   </form>
-
+  <?php endif; ?>
 </body>
 
 </html>
