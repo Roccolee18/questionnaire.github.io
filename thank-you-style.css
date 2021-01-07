@@ -9,3 +9,8 @@ h1{
   top: 50%;
   left: 50%;
 }
+
+.banner{
+  background-color: #547aa5;
+  display: inline;
+}
