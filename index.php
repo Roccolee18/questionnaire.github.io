@@ -57,7 +57,7 @@
     <span>A new or worsening cough</span>
     <input type="radio" id="yesCough" name="cough" value="yes" required>
     <label for="yesCough">Yes</label>
-    <input type="radio" id="noCough" name="cough" value="no" >
+    <input type="radio" id="noCough" name="cough" value="no">
     <label for="noCough">No</label>
 
     <span>Shortness of breath</span>
