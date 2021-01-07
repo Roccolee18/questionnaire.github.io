@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-wcdth, initial-scale=1.0">
   <link href="thank-you-style.css" type="text/css" rel="stylesheet">
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -44,8 +45,15 @@
     </div>
     <p>SalonEverywhere</p>
   </div>
-  <h1>Thank you for your submission!</h1>
-  <a href="https://SalonEverywhere.com">Click here to return to our home page</a>
+  <h1 data-aos="fade-up">Thank you for your submission!</h1>
+  <a href="https://SalonEverywhere.com" data-aos ="fade-up">Click here to return to our home page</a>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+ AOS.init({
+   offset: 150,
+   duration: 1000
+ });
+</script>
 </body>
 
 </html>
