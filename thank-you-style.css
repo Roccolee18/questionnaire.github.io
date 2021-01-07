@@ -10,7 +10,29 @@ h1{
   left: 50%;
 }
 
+body{
+  margin: 0;
+  padding: 0;
+}
+
 .banner{
   background-color: #547aa5;
+  display: inline-flex;
+  width: 100%;
+  margin: 0;
+}
+
+.banner .logo{
+  width: fit-content;
+}
+
+.banner p{
   display: inline;
+}
+
+a{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 60%;
+  left: 50%;
 }
