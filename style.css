@@ -67,10 +67,6 @@ form .questionElements {
   float: right;
 }
 
-form span {
-  margin-right: 500px;
-}
-
 form .submitButton {
   float: right;
   margin-top: 50px;
