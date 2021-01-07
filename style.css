@@ -1,46 +1,46 @@
-html{
+html {
   margin: 0;
   padding: 0;
 }
 
-body{
+body {
   margin: 0;
 }
 
-h1, h2{
+h1, h2 {
   text-align: center;
   margin: 0;
   padding-bottom: 15px;
 }
 
-.title h2{
+.title h2 {
   padding-bottom: 20px;
 }
 
-.logo{
+.logo {
   width: fit-content;
   margin: 0;
 }
 
-svg .logo{
+svg .logo {
   float: right;
   display: inline-block;
 }
 
-.logo p{
+.logo p {
   width: fit-content;
   margin: 0;
   display: inline;
   padding-bottom: 5px;
 }
 
-.banner{
+.banner {
   background-color: #547aa5;
   width: 100%;
   margin: 0;
 }
 
-.label{
+.label {
   display: flex;
   flex-direction: column;
   padding-top: 20px;
@@ -48,30 +48,30 @@ svg .logo{
   font-size: 10px;
 }
 
-p{
+p {
   margin-left: 60px;
   font-size: 20px;
 }
 
-form{
+form {
   font-size: 20px;
 }
 
-form .question{
+form .question {
   width: 80%;
   margin-left: 200px;
   margin-top: 30px;
 }
 
-form .questionElements{
+form .questionElements {
   float: right;
 }
 
-form span{
+form span {
   margin-right: 500px;
 }
 
-form .submitButton{
+form .submitButton {
   float: right;
   margin-top: 50px;
   margin-right: 150px;
