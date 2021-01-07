@@ -1,0 +1,419 @@
+.div-1 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    width: 1030px;
+    height: 690px;
+    border-radius: 0px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .div-2 {
+    position: absolute;
+    top: 26px;
+    left: 202px;
+    width: 624px;
+    height: 42px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-3 {
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    width: 53.7581901550293px;
+    height: 65.00000762939453px;
+  }
+  .div-4 {
+    position: absolute;
+    top: 46.68231201171875px;
+    left: 11.4669189453125px;
+    width: 12.908802032470703px;
+    height: 13.675004005432129px;
+    background-color: rgba(219, 39, 38, 1);
+  }
+  .div-5 {
+    position: absolute;
+    top: 32.34222412109375px;
+    left: 5.48028564453125px;
+    width: 12.908802032470703px;
+    height: 13.675004005432129px;
+    background-color: rgba(219, 39, 38, 1);
+  }
+  .div-6 {
+    position: absolute;
+    top: 0px;
+    left: 28.35638427734375px;
+    width: 12.908802032470703px;
+    height: 13.675004005432129px;
+    background-color: rgba(219, 39, 38, 1);
+  }
+  .div-7 {
+    position: relative;
+  }
+  .img-1 {
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .div-8 {
+    width: 100%;
+    padding-top: 103.54234150717627%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .div-9 {
+    position: absolute;
+    top: 16.325103759765625px;
+    left: 5.1978759765625px;
+    width: 12.908802032470703px;
+    height: 13.675004005432129px;
+    background-color: rgba(219, 39, 38, 1);
+  }
+  .div-10 {
+    position: absolute;
+    top: 3.53656005859375px;
+    left: 13.8448486328125px;
+    width: 12.908802032470703px;
+    height: 13.675004005432129px;
+    background-color: rgba(219, 39, 38, 1);
+  }
+  .div-11 {
+    position: absolute;
+    top: 148px;
+    left: 628px;
+    width: 59px;
+    height: 42px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-12 {
+    position: absolute;
+    top: 148px;
+    left: 826px;
+    width: 49px;
+    height: 37px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-13 {
+    position: absolute;
+    top: 81px;
+    left: 336px;
+    width: 308px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-14 {
+    position: absolute;
+    top: 32px;
+    left: 63px;
+    width: 140px;
+    height: 28px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 14px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-15 {
+    position: absolute;
+    top: 196px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-16 {
+    position: absolute;
+    top: 249px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-17 {
+    position: absolute;
+    top: 302px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-18 {
+    position: absolute;
+    top: 355px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-19 {
+    position: absolute;
+    top: 408px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-20 {
+    position: absolute;
+    top: 461px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-21 {
+    position: absolute;
+    top: 514px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-22 {
+    position: absolute;
+    top: 567px;
+    left: 644px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-23 {
+    position: absolute;
+    top: 149px;
+    left: 27px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-24 {
+    position: absolute;
+    top: 199px;
+    left: 27px;
+    width: 212px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-25 {
+    position: absolute;
+    top: 245px;
+    left: 27px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-26 {
+    position: absolute;
+    top: 294px;
+    left: 28px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-27 {
+    position: absolute;
+    top: 351px;
+    left: 27px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-28 {
+    position: absolute;
+    top: 405px;
+    left: 27px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-29 {
+    position: absolute;
+    top: 464px;
+    left: 30px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-30 {
+    position: absolute;
+    top: 517px;
+    left: 31px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-31 {
+    position: absolute;
+    top: 570px;
+    left: 32px;
+    width: 277px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
+  .div-32 {
+    position: absolute;
+    top: 193px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-33 {
+    position: absolute;
+    top: 246px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-34 {
+    position: absolute;
+    top: 299px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-35 {
+    position: absolute;
+    top: 352px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-36 {
+    position: absolute;
+    top: 405px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-37 {
+    position: absolute;
+    top: 458px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-38 {
+    position: absolute;
+    top: 511px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-39 {
+    position: absolute;
+    top: 564px;
+    left: 831px;
+    width: 27px;
+    height: 27px;
+    border-radius: 0px;
+    background-color: rgba(196, 196, 196, 1);
+  }
+  .div-40 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1030px;
+    height: 136px;
+    border-radius: 0px;
+    background-color: rgba(84, 122, 165, 1);
+  }
+  .div-41 {
+    position: absolute;
+    top: 628px;
+    left: 786px;
+    width: 133px;
+    height: 33px;
+    border-radius: 0px;
+    border-color: rgba(0, 0, 0, 1);
+    border-width: 1px;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .div-42 {
+    position: absolute;
+    top: 634px;
+    left: 826px;
+    width: 57px;
+    height: 21px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    font-family: Roboto;
+  }
