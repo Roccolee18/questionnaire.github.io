@@ -5,9 +5,8 @@ html{
 
 h1{
   position: absolute;
-  transform: translate(-50%, -50%);
+  left: 35%;
   top: 50%;
-  left: 50%;
 }
 
 body{
@@ -32,7 +31,6 @@ body{
 
 a{
   position: absolute;
-  transform: translate(-50%, -50%);
   top: 60%;
-  left: 50%;
+  left: 40%;
 }
