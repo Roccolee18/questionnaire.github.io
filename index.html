@@ -10,8 +10,9 @@
 
 <body>
 
+  <!--Creating the banner-->
   <div class="banner">
-
+    <!--Importing the logo copied from Figma as an SVG-->
     <div class="logo">
       <svg width="50" height="50" viewBox="0 0 239 295" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <rect x="35.9785" y="74.0139" width="203.021" height="209.473" fill="url(#pattern0)" />
@@ -46,17 +47,29 @@
       <p>SalonEverywhere</p>
     </div>
 
+    <!--Displaying the title at the top of the questionnaire-->
     <div class="title">
       <h1>COVID-19 Screening Questionnaire</h1>
       <h2>Please answer the following questions</h2>
     </div>
-
   </div>
   <p class="question">Do you have any of the following?</p>
+  <!--The next few comments apply to all questions since they are similar in structure-->
+  <!--This is where the form begins-->
   <form action="thank-you.html" class="form">
+
+    <!--Each question is its own <div>-->
     <div class="question">
+
+      <!--Each qustion's title is its own <span> element-->
       <span>A new or worsening cough</span>
+
+      <!--The "yes", "no", and radio buttons are all grouped together as questionElements-->
       <div class=questionElements>
+
+        <!--Each input type has its own unique id, and the name property ties them together so the user can only select "yes" or "no" instead of "yes" and "no"-->
+        <!--The value property stores the user's answer-->
+        <!--The required property makes the question a mandatory one (cannot submit with this question blank)-->
         <input type="radio" id="yesCough" name="cough" value="yes" required>
         <label for="yesCough">Yes</label>
         <input type="radio" id="noCough" name="cough" value="no">
@@ -190,6 +203,8 @@
         <label for="noContact">No</label>
       </div>
     </div>
+
+    <!-- A <div> element for the submit button-->
     <div class=submitButton>
       <input type="submit" value="Submit">
     </div>
